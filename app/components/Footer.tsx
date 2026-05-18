@@ -16,7 +16,7 @@ export default function Footer() {
         <div className="contact-grid">
           <a
             className="contact-btn primary"
-            href="https://wa.me/5215541426190?text=Hola,%20me%20interesa%20cotizar%20mi%20p%C3%A1gina%20web%20con%20WeblynMX"
+            href="https://wa.me/525541426190?text=Hola,%20me%20interesa%20cotizar%20mi%20p%C3%A1gina%20web%20con%20WeblynMX"
             target="_blank" rel="noopener"
             data-reveal style={{ transitionDelay: '0s' }}
           >

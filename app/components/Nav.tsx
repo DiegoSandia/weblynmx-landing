@@ -1,7 +1,7 @@
 'use client'
 import { useEffect, useRef } from 'react'
 
-const WA = 'https://wa.me/5215541426190?text=Hola,%20me%20interesa%20cotizar%20mi%20p%C3%A1gina%20web%20con%20WeblynMX'
+const WA = 'https://wa.me/525541426190?text=Hola,%20me%20interesa%20cotizar%20mi%20p%C3%A1gina%20web%20con%20WeblynMX'
 
 export default function Nav() {
   const navRef = useRef<HTMLElement>(null)
